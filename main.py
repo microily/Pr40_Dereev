@@ -1,6 +1,6 @@
 from kivy.lang import Builder
 from kivymd.app import MDApp
-from kivymd.uix.picker import MDTimePicker
+from kivymd.uix.pickers import MDTimePicker
 
 # Описание интерфейса в формате Kivy
 kv = '''
